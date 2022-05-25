@@ -1,16 +1,3 @@
 # flutter_dark_microphone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/170185937-42dccb25-6e48-44ca-97fd-c6e349d19498.png" width="200" height="400" />  <img src="https://user-images.githubusercontent.com/26844387/170185947-5f3d1030-1f09-4e19-b72b-84a6e5dfafda.png" width="200" height="400" />
